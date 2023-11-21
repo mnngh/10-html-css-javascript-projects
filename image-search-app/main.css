@@ -6,5 +6,14 @@
 
 body{
   background-color: #f9f9f9;
-  
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
